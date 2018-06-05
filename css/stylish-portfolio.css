@@ -417,6 +417,6 @@ a:active {
 
 img {
   border-radius: 50%;
-  height: 100px;
-  width: auto;
+  max-height: 50%;
+  max-width: auto;
 }

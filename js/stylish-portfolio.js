@@ -1,6 +1,29 @@
 (function($) {
   "use strict"; // Start of use strict
 
+  // Header Video
+  var HeaderVideo = function(settings) {
+    if (settings.element.length === 0) {
+        return;
+    }
+    this.init(settings);
+};
+
+HeaderVideo.prototype.init = function(settings) {
+    this.$element = $(settings.element);
+    this.settings = settings;
+    this.videoDetails = this.getVideoDetails();
+};
+
+$('.header-video').each(function(i, elem) {
+    headerVideo = new HeaderVideo({
+      element: elem,
+      media: '.header-video__media',
+      playTrigger: '.header-video__play-trigger',
+      closeTrigger: '.header-video__close-trigger'
+    });
+});
+
   // Closes the sidebar menu
   $(".menu-toggle").click(function(e) {
     e.preventDefault();

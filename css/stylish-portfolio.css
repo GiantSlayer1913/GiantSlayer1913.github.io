@@ -8,38 +8,6 @@ body {
   font-family: 'Source Sans Pro';
 }
 
-.header-video {
-  position: relative;
-  overflow: hidden;
-}
-
-.header-video iframe,
-.header-video video {
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-}
-
-.header-video iframe {
-  height: 100%;
-  width: 100%;
-}
-
-.header-video video {
-  width: 100%;
-}
-
-.header-video__teaser-video {
-  width: 100%;
-  height: auto;
-}
-
-.header-video__media {
-  width: 100%;
-  height: auto;
-}
 
 .btn-xl {
   padding: 1.25rem 2.5rem;
@@ -100,7 +68,8 @@ h6 {
   line-height: 45px;
 }
 
-.scroll-to-top:focus, .scroll-to-top:hover {
+.scroll-to-top:focus,
+.scroll-to-top:hover {
   color: white;
 }
 
@@ -136,6 +105,7 @@ h6 {
   .masthead {
     height: 100vh;
   }
+
   .masthead h1 {
     font-size: 5.5rem;
   }
@@ -227,7 +197,8 @@ h6 {
   z-index: 999;
 }
 
-.menu-toggle:focus, .menu-toggle:hover {
+.menu-toggle:focus,
+.menu-toggle:hover {
   color: #fff;
 }
 
@@ -399,6 +370,11 @@ a:hover, a:focus, a:active {
   color: #ecb807 !important;
 }
 
+video {
+  max-height: 100%;
+  max-width: 100%;
+}
+
 #myVideo {
   position: fixed;
   right: 0;
@@ -410,4 +386,27 @@ a:hover, a:focus, a:active {
   min-height: 100%;
   z-index: -1;
   object-fit: fill;
+}
+
+.header-video {
+  position: relative;
+  overflow: hidden;
+}
+
+.header-video iframe,
+.header-video video {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+.header-video iframe {
+  height: 100%;
+  width: 100%;
+}
+
+.header-video video {
+  width: 100%;
 }

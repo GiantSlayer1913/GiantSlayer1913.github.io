@@ -9,7 +9,7 @@ body {
 }
 
 #welcome-mat {
-  min-height: 30rem;
+  /* min-height: 30rem; */
   position: relative;
   display: table;
   width: 100%;

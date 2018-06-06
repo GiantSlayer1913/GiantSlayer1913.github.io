@@ -41,10 +41,12 @@ body {
   text-transform: uppercase;
 }
 
-h1 {
+.about-me-title {
   font-weight: 700;
   text-align: left;
 }
+
+h1
 h2,
 h3,
 h4,

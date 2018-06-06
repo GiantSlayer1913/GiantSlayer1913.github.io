@@ -146,6 +146,7 @@ html {
 .col-lg-12,
 .col-lg,
 .col-lg-auto {
+  border: black 3px;
   font-family: monospace;
   overflow: hidden; /* Ensures the content is not revealed until the animation */
   border-right: 0.15em solid orange; /* The typwriter cursor */

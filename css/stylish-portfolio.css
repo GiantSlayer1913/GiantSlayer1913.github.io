@@ -441,3 +441,10 @@ img {
   max-width: auto;
   padding: 20px;
 }
+
+#project-one,
+#porject-two,
+#project-three,
+#project-four {
+  border: black 3px;
+}

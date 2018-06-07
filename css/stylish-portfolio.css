@@ -6,7 +6,7 @@ html {
 }
 
 body {
-  font-family: 'Source Sans Pro';
+  font-family: 'Sans-serif';
 }
 
 #welcome-mat {
@@ -41,12 +41,12 @@ body {
   text-transform: uppercase;
 }
 
-.about-me-title {
+#h1-title {
   font-weight: 700;
   text-align: left;
 }
 
-h1
+h1,
 h2,
 h3,
 h4,
@@ -155,14 +155,14 @@ h6 {
 .sidebar-nav {
   position: absolute;
   top: 0;
-  width: 1750px;
+  width: 250px;
   margin: 0;
   padding: 0;
   list-style: none;
 }
 
 .sidebar-nav li.sidebar-nav-item a {
-  display: inline-flex;
+  display: block;
   text-decoration: none;
   color: #fff;
   padding: 15px;
@@ -200,7 +200,7 @@ h6 {
 
 #sidebar-wrapper.active {
   right: 250px;
-  width: 1750px;
+  width: 250px;
   -webkit-transition: all 0.4s ease 0s;
   -moz-transition: all 0.4s ease 0s;
   -ms-transition: all 0.4s ease 0s;

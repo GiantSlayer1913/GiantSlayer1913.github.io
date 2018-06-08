@@ -32,7 +32,7 @@ body {
 }
 
 .content-section-heading h2 {
-  font-size: 3rem;
+  font-size: 4rem;
 }
 
 .content-section-heading h3 {
@@ -444,4 +444,8 @@ img {
 #project-three,
 #project-four {
   border: black 3px;
+}
+
+.technologies {
+  float: left;
 }

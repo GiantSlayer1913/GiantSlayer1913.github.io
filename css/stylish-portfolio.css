@@ -449,3 +449,7 @@ img {
 .technologies {
   float: left;
 }
+
+ul {
+  text-align: left;
+}

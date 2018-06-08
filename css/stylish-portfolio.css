@@ -356,6 +356,10 @@ a:active {
   color: #155d74;
 }
 
+a.skills {
+  margin: 150px 0 0 0;
+}
+
 .btn-primary {
   background-color: #1D809F !important;
   border-color: #1D809F !important;

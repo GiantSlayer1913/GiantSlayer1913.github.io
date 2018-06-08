@@ -147,8 +147,6 @@ h6 {
   -o-transition: all 0.4s ease 0s;
   transition: all 0.4s ease 0s;
   transform: translateX(250px);
-  background: #1D809F;
-  border-left: 1px solid rgba(255, 255, 255, 0.1);
 }
 
 .sidebar-nav {
@@ -179,7 +177,7 @@ h6 {
 }
 
 .sidebar-nav > .sidebar-brand {
-  font-size: 1.2rem;
+  font-size: 2rem;
   background: rgba(52, 58, 64, 0.1);
   height: 80px;
   line-height: 50px;
@@ -190,7 +188,7 @@ h6 {
 }
 
 a.sidebar-nav > a.sidebar-brand {
-  color: #fff;
+  color: rgb(145, 106, 84);
 }
 
 a.sidebar-nav > a.sidebar-brand a:hover {

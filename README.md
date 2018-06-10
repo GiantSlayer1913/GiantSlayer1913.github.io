@@ -1,61 +1,110 @@
-# [Start Bootstrap - Stylish Portfolio](https://startbootstrap.com/template-overviews/stylish-portfolio/)
+## Mike Fisch Portfolio 2018
 
-[Stylish Portfolio](http://startbootstrap.com/template-overviews/stylish-portfolio/) is a responsive, one page portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). The theme features multiple content sections with an off canvas navigation menu.
+Welcome to my portfolio ReadMe:
 
-## Preview
+Just in case you can't access my resume, I'm including the raw text below.
+You can visit my GitHub profile and linkedin profile through the link under Contact info.
 
-[![Stylish Portfolio Preview](https://startbootstrap.com/assets/img/templates/stylish-portfolio.jpg)](https://blackrockdigital.github.io/startbootstrap-stylish-portfolio/)
+The following are links to my project repos and deployed sites:
 
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-stylish-portfolio/)**
+![Baseball Database Deployed](https://giantslayer1913.github.io/baseball-client-app/)
 
-## Status
+![Baseball Database client](https://github.com/GiantSlayer1913/baseball-client-app)
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-stylish-portfolio/master/LICENSE)
-[![npm version](https://img.shields.io/npm/v/startbootstrap-stylish-portfolio.svg)](https://www.npmjs.com/package/startbootstrap-stylish-portfolio)
-[![Build Status](https://travis-ci.org/BlackrockDigital/startbootstrap-stylish-portfolio.svg?branch=master)](https://travis-ci.org/BlackrockDigital/startbootstrap-stylish-portfolio)
-[![dependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-stylish-portfolio/status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-stylish-portfolio)
-[![devDependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-stylish-portfolio/dev-status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-stylish-portfolio?type=dev)
+![Baseball Database API](https://github.com/GiantSlayer1913/baseball-database)
 
-## Download and Installation
+![Bucket List Deployed](https://giantslayer1913.github.io/project-three-client/)
 
-To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](https://startbootstrap.com/template-overviews/stylish-portfolio/)
-* Install via npm: `npm i startbootstrap-stylish-portfolio`
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-stylish-portfolio.git`
-* [Fork, Clone, or Download on GitHub](https://github.com/BlackrockDigital/startbootstrap-stylish-portfolio)
+![Bucket List client](https://github.com/GiantSlayer1913/project-three-client)
 
-## Usage
+![Bucket List API](https://github.com/GiantSlayer1913/project-three-api)
 
-### Basic Usage
+![Chris Sale Fan Page Deployed](https://giantslayer1913.github.io/chris-sale-fan-page-client/)
 
-After downloading, simply edit the HTML and CSS files included with the template in your favorite text editor to make changes. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
+![Chris Sale Fan Page client](https://github.com/GiantSlayer1913/chris-sale-fan-page-client)
 
-### Advanced Usage
+![Chris Sale Fan Page API](https://github.com/GiantSlayer1913/chris-sale-fan-page-api)
 
-After installation, run `npm install` and then run `gulp dev` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `gulpfile.js` to see which tasks are included with the dev environment.
+## Portfolio:
+![Portfolio Deployed Link](https://giantslayer1913.github.io/)
 
-## Bugs and Issues
+## RESUME
+Michael Fisch
+Full Stack Web Developer
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-stylish-portfolio/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/stylish-portfolio/).
+Contact info:
+(P) 617-899-2227
+michaeljaredfisch@gmail.com
+linkedin.com/in/michaelfisch
+profiles.generalassemb.ly/profiles/michael-fisch
+(GitHub) github.com/GiantSlayer1913
+(Portfolio) giantslayer1913.github.io
 
-## Custom Builds
+General Assembly Experience:
+03/2018 — 06/1/2019 (3 mos.)
+Completed 500 hours of training in full stack web development languages and technologies showcased in three projects. Knowledge of frontend web languages learned includes HTML/CSS, JavaScript, jQuery, Ruby, Express, and Ember. Backend technologies learned include Ruby/Rails, MongoDB, Heroku, Atom, Sublime, OSX and GitHub.
 
-You can hire Start Bootstrap to create a custom build of any template, or create something from scratch using Bootstrap. For more information, visit the **[custom design services page](https://startbootstrap.com/bootstrap-design-services/)**.
+Completed Projects:
+1.	Chris Sale Fan Page (Capstone) – JavaScript, Ruby on Rails, Heroku
+•	I built this full stack application as a tribute to the Boston Red Sox pitcher using an Ajax frontend and a Ruby/Rails backend. Users can enjoy a slideshow and have full CRUD access to a database resource.
+2.	Bucket List – JavaScript, Express, MongoDB,
+•	As part of a team, I helped build this application using an Express frontend and a MongoDB backend framework.
+3.	Baseball Database – JavaScript, Ruby on Rails, Heroku
+•	This single resource full stack application allows users access to full CRUD on a single resource. Built with a classic frontend and a Ruby/Rails backend and a Heroku database.
 
-## About
+Other Experience:
 
-Start Bootstrap is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
+IT Manager
+Sentry Analytics LLC
+01/2018 — Present (6 mos.)
+Currently managing web development, graphic design, CRM, and technical troubleshooting.
 
-* https://startbootstrap.com
-* https://twitter.com/SBootstrap
+Compliance and Customer Support
+Blue and White Holdings (Israel)
+02/2016 — 01/2017 (1 yr.)
+Provided technical support and troubleshooting for customers using financial trading platforms.
+Increased efficiency of customer support team using enhanced analytics.
+Organized compliance documents to expedite new client verification.
 
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
+Marketing Analyst
+DCTL Solutions Ltd (Israel)
+12/2014 — 09/2015 (10 mos.)
+Designed and created live and recorded educational webinars on financial education.
+Lead analytics team and advised Marketing Dept. on email campaigns.
 
-* http://davidmiller.io
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
+Languages & Libraries Exp:
+•	HTML5
+•	CSS3 / SASS
+•	BOOTSTRAP
+•	JavaScript
+•	Node.js
+•	jQuery
+•	Ruby / Ruby on Rails
+•	SQL / PostgreSQL
+•	Git
+•	MongoDB / Mongoose
+•	Express.js
+•	Ember
 
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+Technology Exp:
+•	Atom, Sublime
+•	Heroku
+•	Github
+•	Development Tools (Word Press, Wix)
+•	SalesForce
+•	Microsoft Office
+
+Certificates / Licenses:
+
+Certificate of Code Literacy - First Step Coding
+Basic knowledge of Arrays, Objects, Functions, API Documentation, Basic Algorithms, Debugging, Consuming APIS, High Order functions, Web Applications, HTML, CSS and JavaScript.
+
+Education:
+Bentley University (‘12)
+Bachelors in Business Major: Marketing
+Minor: Psychology Coursework included Negotiations, Marketing Research, New Product Development, High-Tech Product Marketing
+
+
 
 ## Copyright and License
 

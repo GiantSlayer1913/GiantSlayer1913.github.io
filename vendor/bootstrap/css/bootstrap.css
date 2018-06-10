@@ -476,6 +476,7 @@ mark,
 }
 
 .list-inline {
+  display: inline-flex;
   padding-left: 0;
   list-style: none;
 }

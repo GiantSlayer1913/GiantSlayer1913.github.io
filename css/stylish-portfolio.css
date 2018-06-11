@@ -461,6 +461,6 @@ img {
   float: left;
 }
 
-ul {
+ul > li {
   text-align: left;
 }

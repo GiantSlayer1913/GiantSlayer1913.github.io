@@ -129,6 +129,7 @@ html {
 .col-xl-12,
 .col-xl,
 .col-xl-auto {
+  float: left;
   position: relative;
   width: 100%;
   min-height: 1px;

@@ -475,3 +475,7 @@ ul > li {
 .devicon-git-plain path {
   fill: #4691f6;
 }
+
+.font-big {
+  font-size: 5rem;
+}

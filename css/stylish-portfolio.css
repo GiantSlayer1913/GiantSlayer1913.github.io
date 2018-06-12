@@ -468,14 +468,10 @@ ul > li {
 }
 
 .devicon-git-plain {
-  max-width: 2em;
+  max-width: 5em;
 }
 
 /* if you want to change the original color */
 .devicon-git-plain path {
   fill: #4691f6;
-}
-
-.font-big {
-  font-size: 5rem;
 }

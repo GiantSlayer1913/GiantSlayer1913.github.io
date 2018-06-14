@@ -35,6 +35,22 @@ body {
   text-align: center;
 }
 
+#content-section-aboutme {
+  margin: 0;
+}
+
+.about-me-title {
+  text-shadow: 3px 3px #000;
+}
+
+#profile-pic {
+  display: inline-block;
+  max-width: 50%;
+  max-height: auto;
+  text-shadow: 2px 2px #ff8c00, 3px 3px #fff;
+  color: rgb(9, 9, 9);
+}
+
 .btn-xl {
   /* padding: 1.25rem 2.5rem; */
   max-width: 250px;
@@ -70,7 +86,7 @@ h6 {
   font-weight: 700;
 }
 
-#abotu-me-title {
+#about-me-title {
   text-align: center;
 }
 
@@ -80,6 +96,11 @@ h6 {
   font-weight: 700;
   max-width: 70%;
   max-height: inherit;
+  text-shadow: 1px 1px #000;
+}
+
+#page-turn-about {
+  text-align: center;
 }
 
 .text-faded {

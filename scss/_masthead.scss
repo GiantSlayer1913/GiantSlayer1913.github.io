@@ -22,3 +22,26 @@
     }
   }
 }
+
+#michael-fisch {
+  margin: 400px 0 0 0;
+  text-shadow: 3px 3px #ff8c00, 5px 5px #fff;
+}
+
+#full-stack-web-developer {
+  text-shadow: 1px 1px #ff8c00, 2px 2px #fff;
+}
+
+#welcome-mat {
+  min-height: 30rem;
+  position: relative;
+  display: table;
+  width: 100%;
+  height: auto;
+  padding-top: 1rem;
+  padding-bottom: 2rem;
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/tiger.mp4");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

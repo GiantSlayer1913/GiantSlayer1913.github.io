@@ -10,7 +10,10 @@ body {
 
 // Custom Button Size
 .btn-xl {
-  padding: 1.25rem 2.5rem;
+  // padding: 1.25rem 2.5rem;
+  max-width: 250px;
+  padding: 0;
+  margin: 350px 0 0 0;
 }
 
 // Content Section

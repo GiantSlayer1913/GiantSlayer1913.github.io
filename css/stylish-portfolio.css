@@ -8,6 +8,15 @@ body {
   font-family: 'Sans-serif';
 }
 
+#michael-fisch {
+  margin: 400px 0 0 0;
+  text-shadow: 3px 3px #ff8c00, 5px 5px #fff;
+}
+
+#full-stack-web-developer {
+  text-shadow: 1px 1px #ff8c00, 2px 2px #fff;
+}
+
 #welcome-mat {
   min-height: 30rem;
   position: relative;
@@ -22,8 +31,15 @@ body {
   background-size: cover;
 }
 
+#page-turn-home {
+  text-align: center;
+}
+
 .btn-xl {
-  padding: 1.25rem 2.5rem;
+  /* padding: 1.25rem 2.5rem; */
+  max-width: 250px;
+  padding: 0;
+  margin: 350px 0 0 0;
 }
 
 .content-section {
@@ -216,6 +232,7 @@ a.sidebar-nav > a.sidebar-brand a:hover {
 }
 
 .menu-toggle {
+  display: inline-block;
   position: fixed;
   right: 15px;
   top: 15px;
@@ -397,6 +414,7 @@ a.skills {
 
 .btn-dark {
   color: #aaa !important;
+  background-color: rgba(0, 0, 0, 0.4);
 }
 
 .btn {
@@ -445,11 +463,13 @@ a.skills {
 }
 
 img {
+  max-width: 25%;
+  padding: 0;
   text-align: center;
   border-radius: 50%;
   max-height: 50%;
-  max-width: auto;
-  padding: 20px;
+  /* max-width: auto; */
+  /* padding: 20px; */
 }
 
 #project-two-github,

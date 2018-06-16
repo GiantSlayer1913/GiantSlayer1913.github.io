@@ -31,7 +31,7 @@ body {
   background-size: cover;
 }
 
-#page-turn-home {
+.page-turn {
   text-align: center;
 }
 
@@ -147,10 +147,6 @@ h6 {
   max-width: 70%;
   max-height: inherit;
   text-shadow: 1px 1px #000;
-}
-
-#page-turn-about {
-  text-align: center;
 }
 
 .text-faded {

@@ -27,8 +27,8 @@ body {
 }
 
 .content-section {
-  padding-top: 7.5rem;
-  padding-bottom: 7.5rem;
+  /* padding-top: 7.5rem;
+  padding-bottom: 7.5rem; */
 }
 
 .content-section-heading h2 {
@@ -38,6 +38,11 @@ body {
 .content-section-heading h3 {
   font-size: 1rem;
   text-transform: uppercase;
+}
+
+.dowload-title {
+  font-size: 60px;
+  margin-top: 4rem;
 }
 
 #h1-title {

@@ -30,20 +30,11 @@
 
   <!-- AUDIO PLAY BAR!!! -->
     <a class="btn music icon-big rounded-left" onClick="playSong" type="button" style="font-size: 5rem; float: left; position: fixed;">
-      <i class="icon-music-tone"></i>
-      <audio id="myAudio">
-      <source src="https://www.youtube.com/embed/btPJPFnesV4" type="audio/mp3">
-      </audio>
+      <i id="play" class="icon-music-tone"></i>
+      <button id="pause">Pause</button>
+      <button id="restart">Restart</button>
       </a>
-    <script>
-      const music = document.getElementById("myAudio")
-      const playSong = () => {
-        music.play()
-      }
-      const pauseSong = () => {
-        music.pause()
-      }
-    </script>
+      <div id="currentTime">0</div>
     <!-- End of AUDIO BAR -->
 
   <!-- Navigation -->

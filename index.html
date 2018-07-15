@@ -29,12 +29,21 @@
 <body id="page-top">
 
   <!-- AUDIO PLAY BAR!!! -->
-  <a class="btn music icon-big rounded-left" href="#" style="font-size: 5rem; float: left; position: fixed;">
+  <audio id="myAudio">
+    <a class="btn music icon-big rounded-left" onClick="playSong" type="button" style="font-size: 5rem; float: left; position: fixed;">
       <i class="icon-music-tone"></i>
-    <audio>
       <source src="https://www.youtube.com/embed/btPJPFnesV4" type="audio/mp3">
+      </a>
     </audio>
-  </a>
+    <script>
+      const music = $("myAudio")
+      const playSong() {
+        music.play()
+      }
+      const pauseSong() {
+        music.pause()
+      }
+    </script>
     <!-- End of AUDIO BAR -->
 
   <!-- Navigation -->

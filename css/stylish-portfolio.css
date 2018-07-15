@@ -9,7 +9,7 @@ body {
 }
 
 .music {
-  position: fixed;
+  position: absolute;
 }
 
 #welcome-mat {

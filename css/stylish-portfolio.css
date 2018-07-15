@@ -8,9 +8,8 @@ body {
   font-family: 'Sans-serif';
 }
 
-.music :hover {
-  cursor: pointer;
-  background-color: rgba(29, 128, 159, 0.9);
+.music {
+  position: fixed;
 }
 
 #welcome-mat {

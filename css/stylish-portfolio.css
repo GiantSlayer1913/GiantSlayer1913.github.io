@@ -8,9 +8,8 @@ body {
   font-family: 'Sans-serif';
 }
 
-.music iframe {
+.music {
   float: left;
-  position: fixed;
 }
 
 #welcome-mat {

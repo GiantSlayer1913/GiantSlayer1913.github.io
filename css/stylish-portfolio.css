@@ -8,7 +8,7 @@ body {
   font-family: 'Sans-serif';
 }
 
-.music {
+.music iframe {
   float: left;
   position: fixed;
 }

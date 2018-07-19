@@ -10,6 +10,7 @@ body {
 
 .music {
   float: left;
+  position: fixed;
 }
 
 #welcome-mat {

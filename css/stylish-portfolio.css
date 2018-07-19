@@ -11,6 +11,7 @@ body {
 .music iframe {
   float: left;
   position: fixed;
+  display: inline-flex;
 }
 
 #welcome-mat {

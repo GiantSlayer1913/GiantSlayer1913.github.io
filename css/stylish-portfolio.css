@@ -348,6 +348,7 @@ a.sidebar-nav > a.sidebar-brand a:hover {
 footer.footer {
   padding-top: 5rem;
   padding-bottom: 5rem;
+  position: absolute;
 }
 
 footer.footer .social-link {

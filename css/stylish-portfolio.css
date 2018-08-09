@@ -491,3 +491,7 @@ ul > li {
 .icon-big {
   font-size: 5rem;
 }
+
+.center-text {
+  text-align: center;
+}

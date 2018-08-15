@@ -307,7 +307,7 @@ a.sidebar-nav > a.sidebar-brand a:hover {
 
 .portfolio-item .caption .caption-content p {
   font-weight: 300;
-  font-size: 1.2rem;
+  font-size: 0.5rem;
 }
 
 @media (min-width: 992px) {
@@ -324,9 +324,6 @@ a.sidebar-nav > a.sidebar-brand a:hover {
 
   .portfolio-item .caption .caption-content {
     transition: opacity 0.25s;
-    margin-left: 5rem;
-    margin-right: 5rem;
-    margin-bottom: 5rem;
   }
 
   .portfolio-item img {

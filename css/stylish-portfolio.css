@@ -22,8 +22,6 @@ body {
   height: auto;
   padding-top: 1rem;
   padding-bottom: 2rem;
-
-  /* background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/tiger.mp4"); */
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -71,7 +69,7 @@ h6 {
 }
 
 #about {
-   margin-top: 30%
+  margin-bottom: 370px;
 }
 
 #about-me-text {
@@ -255,7 +253,7 @@ a.sidebar-nav > a.sidebar-brand a:hover {
 
 .service-icon {
   background-color: #fff;
-  color: #1D809F;
+  color: #1d809f;
   height: 7rem;
   width: 7rem;
   display: block;

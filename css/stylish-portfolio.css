@@ -167,7 +167,6 @@ h6 {
   -ms-transition: all 0.4s ease 0s;
   -o-transition: all 0.4s ease 0s;
   transition: all 0.4s ease 0s;
-  transform: translateX(250px);
 }
 
 .sidebar-nav {
@@ -226,6 +225,7 @@ a.sidebar-nav > a.sidebar-brand a:hover {
   -ms-transition: all 0.4s ease 0s;
   -o-transition: all 0.4s ease 0s;
   transition: all 0.4s ease 0s;
+  transform: translateX(250px);
 }
 
 .menu-toggle {
@@ -355,7 +355,7 @@ footer.footer .social-link {
   width: 4rem;
   line-height: 4.3rem;
   font-size: 1.5rem;
-  background-color: #1D809F;
+  background-color: #1d809f;
   transition: background-color 0.15s ease-in-out;
   box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.1);
 }

@@ -5,7 +5,7 @@ html {
 }
 
 body {
-  font-family: 'Sans-serif';
+  font-family: 'serif';
 }
 
 .music iframe {
@@ -379,8 +379,8 @@ a.skills {
 }
 
 .btn-primary {
-  background-color: #1D809F !important;
-  border-color: #1D809F !important;
+  background-color: #1d809f !important;
+  border-color: #1d809f !important;
   color: #fff !important;
 }
 
@@ -414,11 +414,11 @@ a.skills {
 }
 
 .bg-primary {
-  background-color: #1D809F !important;
+  background-color: #1d809f !important;
 }
 
 .text-primary {
-  color: #1D809F !important;
+  color: #1d809f !important;
 }
 
 .text-secondary {

@@ -259,6 +259,10 @@ h6 {
   font-size: 1.2rem;
 }
 
+.port-icon {
+  font-size: 2rem;
+}
+
 @media (min-width: 992px) {
   max-width: none;
   margin: 0;

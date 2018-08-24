@@ -377,6 +377,8 @@ a:hover, a:focus, a:active {
 }
 
 .resume-download:hover {
-  color: #aaa;
+  color: black;
+  font-size: 17rem;
+  margin: auto 2rem;
   text-shadow: 3px 3px #ff8c00, 5px 5px #fff;
 }

@@ -361,3 +361,7 @@ a:hover, a:focus, a:active {
 .text-secondary {
   color: #ecb807 !important;
 }
+
+.tiger-font {
+  text-shadow: 3px 3px #ff8c00, 5px 5px #fff;
+}

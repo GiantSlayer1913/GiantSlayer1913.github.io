@@ -639,6 +639,7 @@
   content: "\e07f";
 }
 .icon-cloud-download:before {
+  color: black;
   content: "\e083";
 }
 .icon-cloud-upload:before {

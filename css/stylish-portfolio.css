@@ -392,3 +392,12 @@ a:hover, a:focus, a:active {
   margin: auto 2rem;
   text-shadow: 3px 3px #ff8c00, 5px 5px #fff;
 }
+
+.technologies {
+  display: block;
+  font-size: 1.8rem;
+  text-align: center;
+  padding: 20px;
+  border: 0;
+  margin: 10%;
+}

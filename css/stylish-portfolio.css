@@ -103,6 +103,7 @@ h6 {
   .masthead {
     height: 100vh;
   }
+
   .masthead h1 {
     font-size: 5.5rem;
   }
@@ -320,7 +321,9 @@ a {
   color: #1d809f;
 }
 
-a:hover, a:focus, a:active {
+a:active,
+a:hover,
+a:focus {
   color: #155d74;
 }
 
@@ -330,7 +333,9 @@ a:hover, a:focus, a:active {
   color: #fff !important;
 }
 
-.btn-primary:hover, .btn-primary:focus, .btn-primary:active {
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active {
   background-color: #155d74 !important;
   border-color: #155d74 !important;
 }
@@ -341,7 +346,9 @@ a:hover, a:focus, a:active {
   color: #fff !important;
 }
 
-.btn-secondary:hover, .btn-secondary:focus, .btn-secondary:active {
+.btn-secondary:active,
+.btn-secondary:hover,
+.btn-secondary:focus {
   background-color: #ba9106 !important;
   border-color: #ba9106 !important;
 }

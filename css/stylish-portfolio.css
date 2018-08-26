@@ -432,3 +432,13 @@ a:focus {
   height: 100%;
   z-index: -1;
 }
+
+.profile-pic {
+  display: block;
+  height: 20%;
+}
+
+.about-me-text {
+  display: inline-flex;
+  text-shadow: 1px 1px #000;
+}

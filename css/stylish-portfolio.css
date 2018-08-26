@@ -371,6 +371,10 @@ a:hover, a:focus, a:active {
   text-shadow: 3px 3px #ff8c00, 5px 5px #fff;
 }
 
+.tiger-icon {
+  text-shadow: 2px 2px #ff8c00, 4px 4px #fff;
+}
+
 .contact-font {
   text-shadow: 3px 3px #000;
   margin: 1rem;

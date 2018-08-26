@@ -35,6 +35,7 @@
         "popper.js": "^1.14.3",
         "simple-line-icons": "^2.4.1",
         "slick-carousel": "^1.8.1",
+        "sshpk": "^1.14.2",
         "startbootstrap-stylish-portfolio": "^4.0.0"
     },
     "devDependencies": {

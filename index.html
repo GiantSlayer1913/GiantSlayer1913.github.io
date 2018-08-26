@@ -24,6 +24,11 @@
   <!-- Custom CSS -->
   <link href="css/stylish-portfolio.min.css" rel="stylesheet">
 
+  <!-- Add the slick-theme.css if you want default styling -->
+  <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/gh/kenwheeler/slick@1.8.1/slick/slick.css"/>
+  <!-- Add the slick-theme.css if you want default styling -->
+  <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/gh/kenwheeler/slick@1.8.1/slick/slick-theme.css"/>
+
   <!-- Broswer Icon -->
   <link rel="shortcut icon" type="image/png" href="img/tiger-dream.jpg">
 
@@ -344,127 +349,128 @@
         <h1 class="mb-5 tiger-font title">Recent Projects</h1>
       </div>
 
-      <!-- Baseball Database -->
-      <div id="first" class="mySlides-fade">
-        <div class="numbertext">1 / 5</div>
-        <div id="project-two" class="col-lg-4" style="margin-right: auto 1rem; padding: 1rem;">
-          <a class="portfolio-item" href="https://giantslayer1913.github.io/baseball-client-app/">
-              <span class="caption">
-                <span class="caption-content">
-                  <p class="mb-0" href="https://giantslayer1913.github.io/baseball-client-app/">Baseball Database</p>
-                </span>
-              </span>
-              <img class="img-fluid" src="img/project-two.png" alt="">
-            </a>
-            <a class="portfolio-item" href="https://github.com/GiantSlayer1913/baseball-client-app">
-              <span class="caption github">
-                <span class="caption-content">
-                  <p class="mb-0">Baseball Client GitHub</p>
-                </span>
-              </span>
-              <i class="icon-social-github" style="font-size: 2rem; vertical-align: middle;" alt=""></i>
-            </a>
-            <a class="portfolio-item" href="https://github.com/GiantSlayer1913/baseball-database">
-              <span class="caption github">
-                <span class="caption-content">
-                  <p class="mb-0">Baseball API GitHub</p>
-                </span>
-              </span>
-              <i class="icon-social-github" style="font-size: 2rem;  vertical-align: middle;" alt=""></i>
-            </a>
-        </div>
-      </div>
+      <div class="mySlides" data-slick='{"slidesToShow": 5, "slidesToScroll": 5}' nextArrow prevArrow>
 
-      <!-- Bucket List -->
-      <div id="second" class="mySlides-fade">
-        <div class="numbertext">2 / 5</div>
-        <div id="project-three" class="col-lg-4" style="margin-right: auto 1rem; padding: 1rem;">
-          <a class="portfolio-item" href="https://giantslayer1913.github.io/project-three-client/">
-              <span class="caption">
-                <span class="caption-content">
-                  <p class="mb-0">Bucket List (including Bonus feature)</p>
+        <!-- Baseball Database -->
+        <div id="first">
+          <div class="numbertext">1 / 5</div>
+          <div id="project-two" class="col-lg-4" style="margin-right: auto 1rem; padding: 1rem;">
+            <a class="portfolio-item" href="https://giantslayer1913.github.io/baseball-client-app/">
+                <span class="caption">
+                  <span class="caption-content">
+                    <p class="mb-0" href="https://giantslayer1913.github.io/baseball-client-app/">Baseball Database</p>
+                  </span>
                 </span>
-              </span>
-              <img class="img-fluid" src="img/project-three.png" alt="">
-            </a>
-            <a class="portfolio-item" href="https://github.com/GiantSlayer1913/project-three-client" style="font-size: 2rem;">
-              <span class="caption" style="font-size: 3.5rem;">
-                <span class="caption-content">
-                  <p class="mb-0">Bucket List Client GitHub</p>
+                <img class="img-fluid" src="img/project-two.png" alt="">
+              </a>
+              <a class="portfolio-item" href="https://github.com/GiantSlayer1913/baseball-client-app">
+                <span class="caption github">
+                  <span class="caption-content">
+                    <p class="mb-0">Baseball Client GitHub</p>
+                  </span>
                 </span>
-              </span>
-              <i class="icon-social-github" style="vertical-align: middle;" alt=""></i>
-            </a>
-            <a class="portfolio-item" href="https://github.com/GiantSlayer1913/project-three-api" style="font-size: 2rem;">
-              <span class="caption" style="font-size: 3.5rem;">
-                <span class="caption-content">
-                  <p class="mb-0">Bucket List API GitHub</p>
+                <i class="icon-social-github" style="font-size: 2rem; vertical-align: middle;" alt=""></i>
+              </a>
+              <a class="portfolio-item" href="https://github.com/GiantSlayer1913/baseball-database">
+                <span class="caption github">
+                  <span class="caption-content">
+                    <p class="mb-0">Baseball API GitHub</p>
+                  </span>
                 </span>
-              </span>
-              <i class="icon-social-github" style="vertical-align: middle;" alt=""></i>
-            </a>
-        </div>
-      </div>
-
-      <!-- Chris Sale Fan Page -->
-      <div id="third" class="mySlides-fade">
-        <div class="numbertext">3 / 5</div>
-        <div id="project-four" class="col-lg-4" style="margin-right: auto 1rem; padding: 1rem;">
-          <a class="portfolio-item" href="https://giantslayer1913.github.io/chris-sale-fan-page-client/">
-              <span class="caption">
-                <span class="caption-content">
-                  <p class="mb-0">Chris Sale Fan Page</p>
-                  <h2>Capstone Project</h2>
-                </span>
-              </span>
-              <img class="img-fluid" src="img/chris-sale-homepage.jpeg" alt="">
-            </a>
-            <a class="portfolio-item" href="https://github.com/GiantSlayer1913/chris-sale-fan-page-client" style="font-size: 2rem;">
-              <span class="caption" style="font-size: 3.5rem;">
-                <span class="caption-content">
-                  <p class="mb-0">C.S.F.P. Client GitHub</p>
-                </span>
-              </span>
-              <i class="icon-social-github" style="vertical-align: middle;" alt=""></i>
-            </a>
-            <a class="portfolio-item" href="https://github.com/GiantSlayer1913/chris-sale-fan-page-api" style="font-size: 2rem;">
-              <span class="caption" style="font-size: 3.5rem;">
-                <span class="caption-content">
-                  <p class="mb-0">C.S.F.P. API GitHub</p>
-                </span>
-              </span>
-              <i class="icon-social-github" style="vertical-align: middle;" alt=""></i>
-            </a>
-        </div>
-      </div>
-
-      <!-- Tic Tac Toe React WIP -->
-      <div id="fourth" class="mySlides-fade">
-        <div class="numbertext">4 / 5</div>
-        <div id="project-five" class="col-lg-4" style="margin-right: auto 1rem; padding: 1rem;">
-          <a class="portfolio-item" href="https://giantslayer1913.github.io/simple-react/">
-              <span class="caption">
-                <span class="caption-content">
-                  <p class="mb-0">Tic-Tac-Toe (WORK IN PROGRESS)</p>
-                  <h2>React Project</h2>
-                </span>
-              </span>
-              <img class="img-fluid" src="img/work-in-progress.jpg" alt="Github code">
-            </a>
-            <a class="portfolio-item" href="https://github.com/GiantSlayer1913/simple-react" style="font-size: 2rem;">
-              <span class="caption" style="font-size: 3.5rem;">
-                <span class="caption-content">
-                  <p class="mb-0">Tic-Tac-Toe React GitHub</p>
-                </span>
-              </span>
-              <i class="icon-social-github" style="vertical-align: middle;" alt=""></i>
-            </a>
-        </div>
+                <i class="icon-social-github" style="font-size: 2rem;  vertical-align: middle;" alt=""></i>
+              </a>
+          </div>
         </div>
 
+        <!-- Bucket List -->
+        <div id="second">
+          <div class="numbertext">2 / 5</div>
+          <div id="project-three" class="col-lg-4" style="margin-right: auto 1rem; padding: 1rem;">
+            <a class="portfolio-item" href="https://giantslayer1913.github.io/project-three-client/">
+                <span class="caption">
+                  <span class="caption-content">
+                    <p class="mb-0">Bucket List (including Bonus feature)</p>
+                  </span>
+                </span>
+                <img class="img-fluid" src="img/project-three.png" alt="">
+              </a>
+              <a class="portfolio-item" href="https://github.com/GiantSlayer1913/project-three-client" style="font-size: 2rem;">
+                <span class="caption" style="font-size: 3.5rem;">
+                  <span class="caption-content">
+                    <p class="mb-0">Bucket List Client GitHub</p>
+                  </span>
+                </span>
+                <i class="icon-social-github" style="vertical-align: middle;" alt=""></i>
+              </a>
+              <a class="portfolio-item" href="https://github.com/GiantSlayer1913/project-three-api" style="font-size: 2rem;">
+                <span class="caption" style="font-size: 3.5rem;">
+                  <span class="caption-content">
+                    <p class="mb-0">Bucket List API GitHub</p>
+                  </span>
+                </span>
+                <i class="icon-social-github" style="vertical-align: middle;" alt=""></i>
+              </a>
+          </div>
+        </div>
+
+        <!-- Chris Sale Fan Page -->
+        <div id="third">
+          <div class="numbertext">3 / 5</div>
+          <div id="project-four" class="col-lg-4" style="margin-right: auto 1rem; padding: 1rem;">
+            <a class="portfolio-item" href="https://giantslayer1913.github.io/chris-sale-fan-page-client/">
+                <span class="caption">
+                  <span class="caption-content">
+                    <p class="mb-0">Chris Sale Fan Page</p>
+                    <h2>Capstone Project</h2>
+                  </span>
+                </span>
+                <img class="img-fluid" src="img/chris-sale-homepage.jpeg" alt="">
+              </a>
+              <a class="portfolio-item" href="https://github.com/GiantSlayer1913/chris-sale-fan-page-client" style="font-size: 2rem;">
+                <span class="caption" style="font-size: 3.5rem;">
+                  <span class="caption-content">
+                    <p class="mb-0">C.S.F.P. Client GitHub</p>
+                  </span>
+                </span>
+                <i class="icon-social-github" style="vertical-align: middle;" alt=""></i>
+              </a>
+              <a class="portfolio-item" href="https://github.com/GiantSlayer1913/chris-sale-fan-page-api" style="font-size: 2rem;">
+                <span class="caption" style="font-size: 3.5rem;">
+                  <span class="caption-content">
+                    <p class="mb-0">C.S.F.P. API GitHub</p>
+                  </span>
+                </span>
+                <i class="icon-social-github" style="vertical-align: middle;" alt=""></i>
+              </a>
+          </div>
+        </div>
+
+        <!-- Tic Tac Toe React WIP -->
+        <div id="fourth">
+          <div class="numbertext">4 / 5</div>
+          <div id="project-five" class="col-lg-4" style="margin-right: auto 1rem; padding: 1rem;">
+            <a class="portfolio-item" href="https://giantslayer1913.github.io/simple-react/">
+                <span class="caption">
+                  <span class="caption-content">
+                    <p class="mb-0">Tic-Tac-Toe (WORK IN PROGRESS)</p>
+                    <h2>React Project</h2>
+                  </span>
+                </span>
+                <img class="img-fluid" src="img/work-in-progress.jpg" alt="Github code">
+              </a>
+              <a class="portfolio-item" href="https://github.com/GiantSlayer1913/simple-react" style="font-size: 2rem;">
+                <span class="caption" style="font-size: 3.5rem;">
+                  <span class="caption-content">
+                    <p class="mb-0">Tic-Tac-Toe React GitHub</p>
+                  </span>
+                </span>
+                <i class="icon-social-github" style="vertical-align: middle;" alt=""></i>
+              </a>
+          </div>
+          </div>
 
         <!-- MIGHTY SUBS -->
-        <div id="fifth" class="mySlides-fade">
+        <div id="fifth">
           <div class="numbertext">5 / 5</div>
           <div id="mighty-subs" class="col-lg-4" style="margin-right: auto 1rem; padding: 1rem;">
             <a class="portfolio-item" href="https://giantslayer1913.github.io/mighty-subs/">
@@ -486,26 +492,10 @@
           </div>
         </div>
 
-      <a id="prev">&#10094;</a>
-      <a id="next">&#10095;</a>
-
+        <button type="button" class="slick-prev">Previous</button>
+        <button type="button" class="slick-next">Next</button>
       </div>
-
-      <br>
-
-      <div class="dots">
-        <span class="dot"></span>
-        <span class="dot"></span>
-        <span class="dot"></span>
-        <span class="dot"></span>
-      </div>
-
-        <!-- END OF SLIDESHOW -->
-
-
-      <!-- <div class="row no-gutters" style="line-height: 3rem"></div> -->
-
-      </div>
+    </div>
 
 
     <div style="text-align: center;">
@@ -574,7 +564,7 @@
         </a>
         <!-- End of Scroll -->
       </div>
-</footer>
+  </footer>
 <!-- End of footer -->
 
   <!-- Map -->
@@ -598,6 +588,18 @@
 
   <!-- Custom scripts for this template -->
   <script src="js/stylish-portfolio.min.js"></script>
+
+  <!-- Slideshow script from slick carousel -->
+  <script type="text/javascript" src="//cdn.jsdelivr.net/gh/kenwheeler/slick@1.8.1/slick/slick.min.js"></script>
+
+  <script type="text/javascript">
+      $(document).ready(function(){
+        $('.mySlides').slick({
+          "slidesToShow": 5,
+          "slidesToScroll": 5
+        });
+      });
+    </script>
 
 </body>
 

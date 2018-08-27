@@ -369,3 +369,8 @@ a:hover, a:focus, a:active {
   object-fit: cover;
   z-index: -1;
 }
+
+.profile-pic {
+  width: 50%;
+  float: right;
+}

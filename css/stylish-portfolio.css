@@ -364,3 +364,12 @@ a:hover, a:focus, a:active {
 .text-secondary {
   color: #ecb807 !important;
 }
+
+.myvideo {
+  position: fixed;
+  left: 0;
+  top: 0;
+  height: 100%;
+  object-fit: cover;
+  z-index: -1;
+}

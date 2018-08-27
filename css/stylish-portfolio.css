@@ -87,10 +87,6 @@ h6 {
   height: auto;
   padding-top: 8rem;
   padding-bottom: 8rem;
-  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/tiger.mp4");
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-size: cover;
 }
 
 .masthead h1 {
@@ -103,6 +99,7 @@ h6 {
   .masthead {
     height: 100vh;
   }
+
   .masthead h1 {
     font-size: 5.5rem;
   }
@@ -121,8 +118,6 @@ h6 {
   -o-transition: all 0.4s ease 0s;
   transition: all 0.4s ease 0s;
   transform: translateX(250px);
-  background: #1D809F;
-  border-left: 1px solid rgba(255, 255, 255, 0.1);
 }
 
 .sidebar-nav {

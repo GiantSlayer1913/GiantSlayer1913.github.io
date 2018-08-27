@@ -22,7 +22,7 @@ body {
 }
 
 .content-section-heading h3 {
-  font-size: 2rem;
+  font-size: 1rem;
   text-transform: uppercase;
 }
 
@@ -65,7 +65,6 @@ h6 {
   color: white;
   background: rgba(52, 58, 64, 0.5);
   line-height: 45px;
-  z-index: 2;
 }
 
 .scroll-to-top:focus, .scroll-to-top:hover {
@@ -88,6 +87,10 @@ h6 {
   height: auto;
   padding-top: 8rem;
   padding-bottom: 8rem;
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/tiger.mp4");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .masthead h1 {
@@ -100,7 +103,6 @@ h6 {
   .masthead {
     height: 100vh;
   }
-
   .masthead h1 {
     font-size: 5.5rem;
   }
@@ -119,6 +121,8 @@ h6 {
   -o-transition: all 0.4s ease 0s;
   transition: all 0.4s ease 0s;
   transform: translateX(250px);
+  background: #1D809F;
+  border-left: 1px solid rgba(255, 255, 255, 0.1);
 }
 
 .sidebar-nav {
@@ -359,69 +363,4 @@ a:hover, a:focus, a:active {
 
 .text-secondary {
   color: #ecb807 !important;
-}
-
-.myvideo {
-  position: fixed;
-  left: 0;
-  top: 0;
-  height: 100%;
-  object-fit: cover;
-  z-index: -1;
-}
-
-.profile-pic {
-  width: 50%;
-  float: right;
-  margin: 1rem;
-}
-
-.about-me-text {
-  text-shadow: 1px 1px #000;
-}
-
-.tiger-icon {
-  float: left;
-  text-shadow: 1px 1px #ff8c00, 3px 3px #fff;
-}
-
-.tiger-font {
-  font-size: 4rem;
-  text-shadow: 3px 3px #ff8c00, 5px 5px #fff;
-}
-
-.languages,
-.technologies {
-  text-shadow: 2px 2px #ff8c00, 4px 4px #fff;
-}
-
-.about-me-section {
-  margin: 2rem;
-}
-
-.slick-prev,
-.slick-next {
-  cursor: pointer;
-  position: absolute;
-  top: 50%;
-  width: auto;
-  padding: 16px;
-  margin-top: -22px;
-  color: green;
-  font-weight: bold;
-  font-size: 18px;
-  transition: 0.6s ease;
-  border-radius: 0 3px 3px 0;
-}
-
-/* Position the "next button" to the right */
-.slick-next {
-  right: 0;
-  border-radius: 3px 0 0 3px;
-}
-
-/* On hover, add a black background color with a little bit see-through */
-.slick-next:hover,
-.slick-prev:hover {
-  background-color: rgba(0, 0, 0, 0.8);
 }

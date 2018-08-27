@@ -578,7 +578,15 @@
 
   <script type="text/javascript">
       $(document).ready(function(){
-        $('.mySlides').slick();
+        $('.mySlides').slick({
+          dots: true,
+          infinite: true,
+          speed: 300,
+          slidesToShow: 1,
+          slidesToScroll: 1,
+          adaptiveHeight: true,
+          lazyLoad: 'ondemand'
+        });
       });
     </script>
 

@@ -393,3 +393,7 @@ a:hover, a:focus, a:active {
 .technologies {
   text-shadow: 2px 2px #ff8c00, 4px 4px #fff;
 }
+
+.about-me-section {
+  margin: 2rem;
+}

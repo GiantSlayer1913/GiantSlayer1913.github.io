@@ -382,7 +382,7 @@ a:hover, a:focus, a:active {
 
 .tiger-icon {
   float: left;
-  text-shadow: 2px 2px #ff8c00, 4px 4px #fff;
+  text-shadow: 1px 1px #ff8c00, 3px 3px #fff;
 }
 
 .tiger-font {

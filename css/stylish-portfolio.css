@@ -380,6 +380,10 @@ a:hover, a:focus, a:active {
   text-shadow: 1px 1px #000;
 }
 
+.tiger-icon {
+  text-shadow: 2px 2px #ff8c00, 4px 4px #fff;
+}
+
 .tiger-font {
   font-size: 4rem;
   text-shadow: 3px 3px #ff8c00, 5px 5px #fff;

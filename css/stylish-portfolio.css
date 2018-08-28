@@ -381,6 +381,10 @@ a:hover, a:focus, a:active {
   text-shadow: 1px 1px #000;
 }
 
+.download-title {
+  margin-top: 12rem;
+}
+
 .tiger-icon {
   float: left;
   text-shadow: 1px 1px #ff8c00, 3px 3px #fff;

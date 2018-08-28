@@ -377,6 +377,7 @@ a:hover, a:focus, a:active {
 }
 
 .about-me-text {
+  font-size: 1.5rem;
   text-shadow: 1px 1px #000;
 }
 

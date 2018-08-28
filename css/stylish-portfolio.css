@@ -395,14 +395,19 @@ a:hover, a:focus, a:active {
   text-shadow: 2px 2px #ff8c00, 4px 4px #fff;
 }
 
-.about-me-section {
-  margin: 2rem;
-}
-
 .contact-font {
   text-shadow: 1px 1px #000;
 }
 
+.about-me-section {
+  margin: 2rem;
+}
+
+.font-big {
+  font-size: 17rem;
+}
+
+/* Slideshow CSS below */
 .slick-prev,
 .slick-next {
   cursor: pointer;

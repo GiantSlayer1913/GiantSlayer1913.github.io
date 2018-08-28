@@ -381,6 +381,11 @@ a:hover, a:focus, a:active {
   text-shadow: 1px 1px #000;
 }
 
+.contact-title {
+  font-size: 5rem;
+  text-shadow: 2px 2px #ff8c00, 4px 4px #fff;
+}
+
 .download-title {
   margin-top: 12rem;
 }

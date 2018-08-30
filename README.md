@@ -1,4 +1,4 @@
-## Mike Fisch Portfolio 2018
+## Mike Fisch - Full Stack Developer
 
 Welcome to my portfolio ReadMe:
 
@@ -6,39 +6,34 @@ Just in case you can't access my resume, I'm including the raw text below.
 You can visit my GitHub profile and linkedin profile through the link under Contact info.
 
 The following are links to my project repos and deployed sites:
+<ul>
+<li>![Baseball Database Deployed](https://giantslayer1913.github.io/baseball-client-app/)</li>
 
-![Baseball Database Deployed](https://giantslayer1913.github.io/baseball-client-app/)
+<li>![Baseball Database client](https://github.com/GiantSlayer1913/baseball-client-app)</li>
 
-![Baseball Database client](https://github.com/GiantSlayer1913/baseball-client-app)
+<li>![Baseball Database API](https://github.com/GiantSlayer1913/baseball-database)</li>
 
-![Baseball Database API](https://github.com/GiantSlayer1913/baseball-database)
+<li>![Bucket List Deployed](https://giantslayer1913.github.io/project-three-client/)</li>
 
-![Bucket List Deployed](https://giantslayer1913.github.io/project-three-client/)
+<li>![Bucket List client](https://github.com/GiantSlayer1913/project-three-client)</li>
 
-![Bucket List client](https://github.com/GiantSlayer1913/project-three-client)
+<li>![Bucket List API](https://github.com/GiantSlayer1913/project-three-api)</li>
 
-![Bucket List API](https://github.com/GiantSlayer1913/project-three-api)
+<li>![Chris Sale Fan Page Deployed](https://giantslayer1913.github.io/chris-sale-fan-page-client/)</li>
 
-![Chris Sale Fan Page Deployed](https://giantslayer1913.github.io/chris-sale-fan-page-client/)
+<li>![Chris Sale Fan Page client](https://github.com/GiantSlayer1913/chris-sale-fan-page-client)</li>
 
-![Chris Sale Fan Page client](https://github.com/GiantSlayer1913/chris-sale-fan-page-client)
-
-![Chris Sale Fan Page API](https://github.com/GiantSlayer1913/chris-sale-fan-page-api)
+<li>![Chris Sale Fan Page API](https://github.com/GiantSlayer1913/chris-sale-fan-page-api)</li>
+</ul>
 
 ## Portfolio:
-![Portfolio Deployed Link](https://giantslayer1913.github.io/)
+<ul>
+<li>![Portfolio Deployed Link](https://giantslayer1913.github.io)</li>
+</ul>
 
-## RESUME
+## Resume:
 Michael Fisch
 Full Stack Web Developer
-
-Contact info:
-(P) 617-899-2227
-michaeljaredfisch@gmail.com
-linkedin.com/in/michaelfisch
-profiles.generalassemb.ly/profiles/michael-fisch
-(GitHub) github.com/GiantSlayer1913
-(Portfolio) giantslayer1913.github.io
 
 General Assembly Experience:
 03/2018 — 06/1/2019 (3 mos.)
@@ -73,37 +68,58 @@ Designed and created live and recorded educational webinars on financial educati
 Lead analytics team and advised Marketing Dept. on email campaigns.
 
 Languages & Libraries Exp:
-•	HTML5
-•	CSS3 / SASS
-•	BOOTSTRAP
-•	JavaScript
-•	Node.js
-•	jQuery
-•	Ruby / Ruby on Rails
-•	SQL / PostgreSQL
-•	Git
-•	MongoDB / Mongoose
-•	Express.js
-•	Ember
+<ul>
+<li>HTML5</li>
+<li>CSS3
+<li>SASS</li>
+<li>BOOTSTRAP</li>
+<li>JavaScript</li>
+<li>Node.js</li>
+<li>jQuery</li>
+<li>Ruby / Ruby on Rails</li>
+<li>SQL / PostgreSQL</li>
+<li>Git</li>
+<li>MongoDB / Mongoose</li>
+<li>Express.js</li>
+<li>Ember</li>
+</ul>
 
 Technology Exp:
-•	Atom, Sublime
-•	Heroku
-•	Github
-•	Development Tools (Word Press, Wix)
-•	SalesForce
-•	Microsoft Office
+<ul>
+<li>Atom, Sublime</li>
+<li>Heroku</li>
+<li>Github</li>
+<li>Development Tools (Word Press, Wix)</li>
+<li>SalesForce</li>
+<li>Microsoft Office</li>
+</ul>
 
-Certificates / Licenses:
+ ## Certificates / Licenses:
+ <ul>
+ <li>
+ <h5>Certificate of Code Literacy - First Step Coding</h5>
+ <p>Basic knowledge of Arrays, Objects, Functions, API Documentation, Basic Algorithms, Debugging, Consuming APIS, High Order functions, Web Applications, HTML, CSS and JavaScript.</p>
+ </li>
+ </ul>
 
-Certificate of Code Literacy - First Step Coding
-Basic knowledge of Arrays, Objects, Functions, API Documentation, Basic Algorithms, Debugging, Consuming APIS, High Order functions, Web Applications, HTML, CSS and JavaScript.
+## Education:
+<ul>
+<li>
+<h5>Bentley University:</h5>
+<p>Bachelors in Business Major: Marketing
+Minor: Psychology Coursework included Negotiations, Marketing Research, New Product Development, High-Tech Product Marketing</p>
+</li>
+</ul>
 
-Education:
-Bentley University (‘12)
-Bachelors in Business Major: Marketing
-Minor: Psychology Coursework included Negotiations, Marketing Research, New Product Development, High-Tech Product Marketing
-
+## Contact info:
+<ul>
+<li>(P) 617-899-2227</li>
+<li>michaeljaredfisch@gmail.com</li>
+<li>linkedin.com/in/michaelfisch</li>
+<li>General Assembly: profiles.generalassemb.ly/profiles/michael-fisch</li>
+<li>GitHub: github.com/GiantSlayer1913</li>
+<li>Portfolio: giantslayer1913.github.io</li>
+</ul>
 
 
 ## Copyright and License Michael Fisch 2018

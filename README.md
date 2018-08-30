@@ -7,28 +7,84 @@ You can visit my GitHub profile and linkedin profile through the link under Cont
 
 The following are links to my project repos and deployed sites:
 <ul>
-<li>![Baseball Database Deployed](https://giantslayer1913.github.io/baseball-client-app/)</li>
+  <li>Baseball Database Deployed:
+    <a target="_blank"  href="https://giantslayer1913.github.io/baseball-client-app">
+      <img src="/img/baseball-database.png">
+    </a>
+  </li>
 
-<li>![Baseball Database client](https://github.com/GiantSlayer1913/baseball-client-app)</li>
+  <li>
+    <a target="_blank"  href="https://github.com/GiantSlayer1913/baseball-client-app">Baseball Databse Client Github
+    </a>
+  </li>
 
-<li>![Baseball Database API](https://github.com/GiantSlayer1913/baseball-database)</li>
+  <li>
+    <a target="_blank"  href="https://github.com/GiantSlayer1913/baseball-database">Baseball Databse API Github
+    </a>
+  </li>
+  <br>
 
-<li>![Bucket List Deployed](https://giantslayer1913.github.io/project-three-client/)</li>
+  <li>Bucket List Deployed:
+    <a target="_blank"  href="https://giantslayer1913.github.io/project-three-client">
+      <img src="/img/project-three.png">
+    </a>
+  </li>
 
-<li>![Bucket List client](https://github.com/GiantSlayer1913/project-three-client)</li>
+  <li>
+    <a target="_blank"  href="https://github.com/GiantSlayer1913/project-three-client">Bucket List Client Github
+    </a>
+  </li>
 
-<li>![Bucket List API](https://github.com/GiantSlayer1913/project-three-api)</li>
+  <li>
+    <a target="_blank"  href="https://github.com/GiantSlayer1913/project-three-api">Bucket List API Github
+    </a>
+  </li>
+<br>
+  <li>Chris Sale Fan Page Deployed:
+    <a target="_blank"  href="https://giantslayer1913.github.io/chris-sale-fan-page-client">
+      <img src="/img/chris-sale-homepage.jpeg">
+    </a>
+  </li>
 
-<li>![Chris Sale Fan Page Deployed](https://giantslayer1913.github.io/chris-sale-fan-page-client/)</li>
+  <li>
+    <a target="_blank"  href="https://github.com/GiantSlayer1913/chris-sale-fan-page-client">Chris Sale Fan Page Client Github
+    </a>
+  </li>
 
-<li>![Chris Sale Fan Page client](https://github.com/GiantSlayer1913/chris-sale-fan-page-client)</li>
+  <li>
+    <a target="_blank"  href="https://github.com/GiantSlayer1913/chris-sale-fan-page-api">Chris Sale Fan Page API Github
+    </a>
+  </li>
+<br>
 
-<li>![Chris Sale Fan Page API](https://github.com/GiantSlayer1913/chris-sale-fan-page-api)</li>
+  <li>Mighty Subs Deployed:
+    <a target="_blank" href="https://giantslayer1913.github.io">
+      <img src="/img/mightysubs-store.png">
+    </a>
+  </li>
+
+  <li>
+    <a target="_blank"  href="htts://github.GiantSlayer1913/mighty-subs">Mighty Subs Github
+    </a>
+  </li>
+<br>
+
+  <li>Sentry Analytics LLC
+    <a target="_blank" href="https://www.sentryanalytics.net">
+      <img src="/img/sentryanalytics.png">
+    </a>
+  </li>
 </ul>
 
 ## Portfolio:
 <ul>
-<li>![Portfolio Deployed Link](https://giantslayer1913.github.io)</li>
+  <li>Mike's Portfolio Deployed:
+    <a target="_blank" href="https://giantslayer1913.github.io">
+      <video autoplay loop>
+        <source src="/img/tiger.mp4" type="video/mp4">
+      </video>
+    </a>
+  </li>
 </ul>
 
 ## Resume:

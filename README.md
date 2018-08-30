@@ -58,7 +58,7 @@ The following are links to my project repos and deployed sites:
 <br>
 
   <li>Mighty Subs Deployed:
-    <a target="_blank" href="https://giantslayer1913.github.io">
+    <a target="_blank" href="https://giantslayer1913.github.io/mighty-subs">
       <img src="/img/mightysubs-store.png">
     </a>
   </li>

@@ -40,7 +40,21 @@
     }
   });
 
-})(jQuery); // End of use strict
+  // Slick carousel JavaScript
+  $(document).ready(function(){
+    $('.mySlides').slick({
+      dots: true,
+      infinite: true,
+      speed: 300,
+      slidesToShow: 1,
+      slidesToScroll: 1,
+      adaptiveHeight: true
+    });
+  });
+
+})(jQuery);
+
+// End of use strict
 
 // Disable Google Maps scrolling
 // See http://stackoverflow.com/a/25904582/1607849
@@ -62,32 +76,3 @@ var onMapClickHandler = function(event) {
 }
 // Enable map zooming with mouse scroll when the user clicks the map
 $('.map').on('click', onMapClickHandler);
-
-// Play / Pause AUDIO
-
-//   $(document).ready(function() {
-//     var audioElement = document.createElement('audio');
-//     audioElement.setAttribute('src', 'https://www.youtube.com/embed/btPJPFnesV4');
-//     audioElement.addEventListener('ended', function() {
-//         this.play();
-//     }, false);
-//     audioElement.addEventListener("canplay",function(){
-//         $("#length").text("Duration:" + audioElement.duration + " seconds");
-//         $("#source").text("Source:" + audioElement.src);
-//         $("#status").text("Status: Ready to play").css("color","green");
-//     });
-//     audioElement.addEventListener("timeupdate",function(){
-//         $("#currentTime").text("Current second:" + audioElement.currentTime);
-//     });
-//     $('#play').click(function() {
-//         audioElement.play();
-//         $("#status").text("Status: Playing");
-//     });
-//     $('#pause').click(function() {
-//         audioElement.pause();
-//         $("#status").text("Status: Paused");
-//     });
-//     $('#restart').click(function() {
-//         audioElement.currentTime = 0;
-//     });
-// });

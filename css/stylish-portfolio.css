@@ -417,6 +417,10 @@ a:hover, a:focus, a:active {
   font-size: 17rem;
 }
 
+.halo {
+  background-image: radial-gradient(white, white, transparent, transparent);
+}
+
 /* Slideshow CSS below */
 .slick-prev,
 .slick-next {

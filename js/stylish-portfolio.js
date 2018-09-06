@@ -39,19 +39,6 @@
       $('.scroll-to-top').fadeOut();
     }
   });
-
-  // Slick carousel JavaScript
-  $(document).ready(function() {
-    $('.mySlides').slick({
-      dots: true,
-      infinite: true,
-      speed: 300,
-      slidesToShow: 1,
-      slidesToScroll: 1,
-      adaptiveHeight: true
-    });
-  });
-
 })(jQuery);
 
 // End of use strict

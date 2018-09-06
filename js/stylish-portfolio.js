@@ -41,7 +41,7 @@
   });
 
   // Slick carousel JavaScript
-  $(document).ready(function(){
+  $(document).ready(function() {
     $('.mySlides').slick({
       dots: true,
       infinite: true,

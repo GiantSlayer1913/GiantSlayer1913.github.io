@@ -201,7 +201,7 @@ h6 {
 
 .service-icon {
   background-color: #fff;
-  color: #1D809F;
+  color: #1d809f;
   height: 7rem;
   width: 7rem;
   display: block;
@@ -256,32 +256,37 @@ h6 {
 
 .portfolio-item .caption .caption-content p {
   font-weight: 300;
-  font-size: 1.2rem;
+  font-size: 1.5rem;
 }
 
 @media (min-width: 992px) {
   max-width: none;
   margin: 0;
+
   .caption {
     -webkit-transition: -webkit-clip-path 0.25s ease-out, background-color 0.7s;
-    -webkit-clip-path: inset(0px);
-    clip-path: inset(0px);
+    -webkit-clip-path: inset(0);
+    clip-path: inset(0);
   }
+
   .caption .caption-content {
     transition: opacity 0.25s;
     margin-left: 5rem;
     margin-right: 5rem;
     margin-bottom: 5rem;
   }
+
   img {
     -webkit-transition: -webkit-clip-path 0.25s ease-out;
     -webkit-clip-path: inset(-1px);
     clip-path: inset(-1px);
   }
+
   img:hover img {
     -webkit-clip-path: inset(2rem);
     clip-path: inset(2rem);
   }
+
   img:hover .caption {
     background-color: rgba(29, 128, 159, 0.9);
     -webkit-clip-path: inset(2rem);
@@ -300,7 +305,7 @@ footer.footer .social-link {
   width: 4rem;
   line-height: 4.3rem;
   font-size: 1.5rem;
-  background-color: #1D809F;
+  background-color: #1d809f;
   transition: background-color 0.15s ease-in-out;
   box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.1);
 }
@@ -311,7 +316,7 @@ footer.footer .social-link:hover {
 }
 
 a {
-  color: #1D809F;
+  color: #1d809f;
 }
 
 a:hover, a:focus, a:active {
@@ -319,8 +324,8 @@ a:hover, a:focus, a:active {
 }
 
 .btn-primary {
-  background-color: #1D809F !important;
-  border-color: #1D809F !important;
+  background-color: #1d809f !important;
+  border-color: #1d809f !important;
   color: #fff !important;
 }
 
@@ -350,11 +355,11 @@ a:hover, a:focus, a:active {
 }
 
 .bg-primary {
-  background-color: #1D809F !important;
+  background-color: #1d809f !important;
 }
 
 .text-primary {
-  color: #1D809F !important;
+  color: #1d809f !important;
 }
 
 .text-secondary {

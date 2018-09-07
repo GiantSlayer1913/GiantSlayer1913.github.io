@@ -421,9 +421,15 @@ a:hover, a:focus, a:active {
   background-image: radial-gradient(white, white, transparent, transparent);
 }
 
+.projects-font {
+  color: white;
+  font-size: 30px;
+  text-shadow: 1px 1px #000;
+}
+
 /* Slideshow CSS below */
-.prev,
-.next {
+.slick-prev,
+.slick-next {
   border-radius: 0 3px 3px 0;
   color: green;
   cursor: pointer;
@@ -439,13 +445,13 @@ a:hover, a:focus, a:active {
 }
 
 /* Position the "next button" to the right */
-.next {
+.slick-next {
   border-radius: 3px 0 0 3px;
   right: 0;
 }
 
 /* On hover, add a black background color with a little bit see-through */
-.next:hover,
-.prev:hover {
+.slick-next:hover,
+.slick-prev:hover {
   background-color: rgba(0, 0, 0, 0.8);
 }

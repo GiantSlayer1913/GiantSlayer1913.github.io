@@ -435,6 +435,7 @@ a:hover, a:focus, a:active {
 /* Slideshow CSS below */
 
 .arrows {
+  font-size: 10rem;
   text-align: center;
   margin: auto 1rem 1rem;
 }

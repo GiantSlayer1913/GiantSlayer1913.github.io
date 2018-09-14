@@ -383,6 +383,7 @@ a:hover, a:focus, a:active {
 
 .about-me-text {
   font-size: 2.2rem;
+  text-align: left;
   text-shadow: 1px 1px #000;
 }
 

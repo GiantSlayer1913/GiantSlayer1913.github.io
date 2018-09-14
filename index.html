@@ -448,8 +448,8 @@
               </span>
               <img class="img-fluid" src="img/sentryanalytics.png" alt="Sentry Analytics LLC Home Page" style="vertical-align: middle;" alt="Wix Web Tools">
             </a>
+          </div>
         </div>
-      </div>
     </div>
 
     </div>
@@ -529,27 +529,32 @@
 
 
   <!-- Bootstrap core JavaScript -->
-  <script src="vendor/jquery/jquery.min.js"></script>
-  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script type="text/javascript" src="vendor/jquery/jquery.min.js"></script>
+  <script type="text/javascript" src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 
   <!-- Plugin JavaScript -->
-  <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+  <script type="text/javascript" src="vendor/jquery-easing/jquery.easing.min.js"></script>
 
   <!-- Custom scripts for this template -->
-  <script src="js/stylish-portfolio.min.js"></script>
+  <script type="text/javascript" src="js/stylish-portfolio.min.js"></script>
 
   <!-- Slideshow script from slick carousel -->
-  <script type="text/javascript" src="//cdn.jsdelivr.net/gh/kenwheeler/slick@1.8.1/slick/slick.min.js"></script>
+  <script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+  <script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+  <script type="text/javascript" src="slick/slick.min.js"></script>
 
   <script type="text/javascript">
         $(document).ready(function(){
           $('.mySlides').slick({
+            arrows: false,
             dots: true,
             infinite: true,
             speed: 300,
             slidesToShow: 1,
             centerMode: true,
-            variableWidth: true
+            variableWidth: true,
+            autoplay: true,
+            autoplaySpeed: 2000
           });
         });
       </script>

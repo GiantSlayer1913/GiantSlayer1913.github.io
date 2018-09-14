@@ -433,11 +433,12 @@ a:hover, a:focus, a:active {
 }
 
 /* Slideshow CSS below */
-.arrows {
+
+/* .arrows {
   text-align: center;
   display: inline-block;
   margin: auto 1rem 1rem;
-}
+} */
 
 .slick-prev,
 .slick-next {

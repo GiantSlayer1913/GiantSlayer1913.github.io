@@ -26,6 +26,9 @@
         "url": "https://github.com/BlackrockDigital/startbootstrap-stylish-portfolio.git"
     },
     "dependencies": {
+        "@babel/cli": "^7.0.0",
+        "@babel/core": "^7.0.1",
+        "@babel/preset-env": "^7.0.0",
         "balanced-match": "^1.0.0",
         "bootstrap": "^4.1.1",
         "devicon": "^2.0.0",
@@ -41,8 +44,8 @@
     },
     "devDependencies": {
         "babel-cli": "^6.26.0",
-        "browser-sync": "^2.24.6",
-        "gulp": "^3.9.1",
+        "browser-sync": "^2.24.7",
+        "gulp": "^4.0.0",
         "gulp-clean-css": "3.9.4",
         "gulp-header": "2.0.5",
         "gulp-rename": "^1.2.2",

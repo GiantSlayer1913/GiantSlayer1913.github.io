@@ -398,6 +398,13 @@ a:hover, a:focus, a:active {
   margin-top: 12rem;
 }
 
+.sox-font {
+  color: #D3D3D3;
+  font-size: 4rem;
+  -webkit-text-stroke-width: 3px;
+  -webkit-text-stroke-color: #f00;
+}
+
 .tiger-icon {
   float: left;
   text-shadow: 1px 1px #ff8c00, 3px 3px #fff;
